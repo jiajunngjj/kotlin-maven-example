@@ -49,7 +49,7 @@
 
                 <configuration>
                     <args>
-                        <arg>-Xexplicit-api=strict</arg>
+                        <arg>-Xexplicit-api=warning</arg>
                     </args>
                 </configuration>
             </plugin>
